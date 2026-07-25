@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -547,6 +563,12 @@
       "BATT+": [
         "HV Current Path"
       ],
+      "GLV_12V": [
+        "HV"
+      ],
+      "GND": [
+        "HV"
+      ],
       "HV+": [
         "HV",
         "HV Current Path"
@@ -662,6 +684,18 @@
       "Net-(IC5-2IN-)": [
         "HV"
       ],
+      "Net-(IC5-CONT)": [
+        "HV"
+      ],
+      "Net-(IC5-DISCH)": [
+        "HV"
+      ],
+      "Net-(IC5-OUT)": [
+        "HV"
+      ],
+      "Net-(IC5-THRES)": [
+        "HV"
+      ],
       "Net-(Q1-D)": [
         "HV"
       ],
@@ -677,6 +711,12 @@
       "Net-(Q3-G)": [
         "HV"
       ],
+      "Net-(Q4-D)": [
+        "HV"
+      ],
+      "Net-(Q4-G)": [
+        "HV"
+      ],
       "Net-(Q5-G)": [
         "HV"
       ],
@@ -684,6 +724,12 @@
         "HV"
       ],
       "OK_90%": [
+        "HV"
+      ],
+      "RTML": [
+        "HV"
+      ],
+      "RTML_enable": [
         "HV"
       ],
       "TS+": [
