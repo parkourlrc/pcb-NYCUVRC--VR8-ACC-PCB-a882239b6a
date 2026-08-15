@@ -359,7 +359,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 791-0805B103K101CT "
+		(property "Mouser Part Number" " 791-0805B103K101CT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1516,12 +1516,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3f60f907-a2b9-4965-8416-9ed923abc321")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07e60419-acc0-40bf-bb32-57cf7b80be69")
 			(effects
 				(font
 					(size 1 1)
@@ -2939,7 +2952,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3M"
+		(property "Value" "1M"
 			(at 0 1.83 0)
 			(layer "F.Fab")
 			(uuid "85f0836f-e2de-4be7-8599-fca27a3f876d")
@@ -3143,12 +3156,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J335V "
+		(property "Mouser Part Number" "708-RVCU1206FT1M00"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22439bfe-d5b0-4da0-ad34-53b55ca34547")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RVCU1206FT1M00"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5debc19-1a72-4ea8-8122-29349fcb80cc")
 			(effects
 				(font
 					(size 1 1)
@@ -3753,12 +3779,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "42bcb937-ea2c-4c86-8c38-33220ac2980f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "859b3362-9b79-4ec7-bd2c-17071b7d710a")
 			(effects
 				(font
 					(size 1 1)
@@ -4156,7 +4195,7 @@
 				)
 			)
 		)
-		(property "Value" "36k"
+		(property "Value" "6.8k"
 			(at 0 1.83 0)
 			(layer "F.Fab")
 			(uuid "d8c7a787-b1c8-4aa7-bb9a-fb70afe92844")
@@ -4360,12 +4399,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J363V "
+		(property "Mouser Part Number" "603-RC1206FR-106K8L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ceca4199-9bde-4752-9be5-2814516a1cdb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-106K8L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbe12931-e034-45df-a4b5-4a430ba8b8ca")
 			(effects
 				(font
 					(size 1 1)
@@ -5573,12 +5625,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b51eb603-ca85-41d8-aff5-93f28b304b12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "411cfeb3-d323-4742-bb4b-7b9c6ff108d0")
 			(effects
 				(font
 					(size 1 1)
@@ -6735,12 +6800,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ff377f27-e34d-46f5-a413-27448b45d454")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22eb1e31-523e-4a93-9b3a-f17a332215c0")
 			(effects
 				(font
 					(size 1 1)
@@ -7065,12 +7143,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J473V "
+		(property "Mouser Part Number" " 603-RC1206FR-0747KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fffcd8f5-3625-415d-b936-f7368b9158c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-0747KL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d93ec25b-c1c5-428c-a5b3-a24cbf5a3572")
 			(effects
 				(font
 					(size 1 1)
@@ -7395,12 +7486,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bf69089b-9a1e-4f6a-af8e-e60dbd1cc1ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8cd3dedd-e12e-406a-a833-d58cc2fa12d2")
 			(effects
 				(font
 					(size 1 1)
@@ -8694,12 +8798,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ad54aaaf-7a07-457e-8664-d3a714b91540")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4526ffa-8f0f-4ec3-a0a8-1277f2ef8b74")
 			(effects
 				(font
 					(size 1 1)
@@ -9024,12 +9141,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J222V "
+		(property "Mouser Part Number" " 603-RC1206FR-132K2L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "32ea2626-eedf-4661-889b-2b19ad30cc9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-132K2L"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ffb6387f-4bcb-464e-92eb-27cb4cceacf4")
 			(effects
 				(font
 					(size 1 1)
@@ -9872,6 +10002,12 @@
 		(path "/b3ca021e-ea0c-48f8-a95d-3c7c8d6b1e13")
 		(sheetname "/")
 		(sheetfile "VR8-ACC-PCB.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "4" "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10413,7 +10549,7 @@
 				)
 			)
 		)
-		(property "Value" "56k"
+		(property "Value" "22k"
 			(at 0 1.83 0)
 			(layer "F.Fab")
 			(uuid "10cfbe52-fd3e-4e79-962e-786590fa5036")
@@ -10617,12 +10753,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J563V "
+		(property "Mouser Part Number" "603-RC1206FR-1322KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "09c23b02-caa3-4667-b5af-8cc9083bbb01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1322KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8aed3cd-c06d-4598-813b-7fbae211c970")
 			(effects
 				(font
 					(size 1 1)
@@ -11411,7 +11560,7 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=ctrl+ 2=ctrl- 3=no+ 4=no-"
+		(property "Sim.Pins" "1=no+ 2=no- 3=ctrl- 4=ctrl+"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11845,7 +11994,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Polarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12026,7 +12175,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "0805X475K160CT "
+		(property "Manufacturer_Part_Number" "TAJA475K016RNJ "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12039,7 +12188,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 791-0805X475K160CT "
+		(property "Mouser Part Number" " 581-TAJA475K016R "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12052,7 +12201,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property ki_fp_filters "CP_*")
 		(path "/011f48f2-aa23-4a6c-8376-033d23fbddfd")
 		(sheetname "/")
 		(sheetfile "VR8-ACC-PCB.kicad_sch")
@@ -12442,7 +12591,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3M"
+		(property "Value" "1M"
 			(at 0 1.83 0)
 			(layer "F.Fab")
 			(uuid "d88d2a2d-71bd-41e8-bbd5-02d92f7caa8b")
@@ -12646,12 +12795,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J335V "
+		(property "Mouser Part Number" "708-RVCU1206FT1M00"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5e2edcf7-2f73-4e08-9803-3ad12708c6cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RVCU1206FT1M00"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7bc71d9-e934-43e0-957c-d20fb8b972af")
 			(effects
 				(font
 					(size 1 1)
@@ -13002,12 +13164,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 637-1N4007 "
+		(property "Mouser Part Number" " 637-1N4007"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d40c26c1-9eed-411d-891a-556851736d42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1N4007"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f035778-60bf-4812-88d7-a948349b071b")
 			(effects
 				(font
 					(size 1 1)
@@ -13450,12 +13625,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J102V "
+		(property "Mouser Part Number" "603-RC1206FR-131KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a6f60100-a4f8-42d4-a7e7-7a8604a1cf26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-131KL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "359b9686-3adf-4980-ba53-0a12f2442ef7")
 			(effects
 				(font
 					(size 1 1)
@@ -13806,12 +13994,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 637-1N4007 "
+		(property "Mouser Part Number" " 637-1N4007"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d74061a1-9119-4acd-b90d-2985c8827bb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1N4007"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d54395bc-146c-45a4-9a59-e2575f59ee4b")
 			(effects
 				(font
 					(size 1 1)
@@ -14306,12 +14507,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 637-1N4007 "
+		(property "Mouser Part Number" " 637-1N4007"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "47215412-eaf2-417a-b480-9b8865a0049d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1N4007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14fa95b2-752a-4c6b-bec8-b5f47927e897")
 			(effects
 				(font
 					(size 1 1)
@@ -15171,12 +15385,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0bd9ef88-6d1b-41d1-bf52-54b52c0fc993")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e464cf5-56a1-4800-82e0-8cd8f38565c4")
 			(effects
 				(font
 					(size 1 1)
@@ -15297,7 +15524,7 @@
 				)
 			)
 		)
-		(property "Value" "51k"
+		(property "Value" "20k"
 			(at 0 1.83 0)
 			(layer "F.Fab")
 			(uuid "15434240-a406-41ea-9a4a-e35eb4c09730")
@@ -15501,12 +15728,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J513V "
+		(property "Mouser Part Number" "603-RC1206FR-1320KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5012a5e2-cd98-47ba-b916-e249765d4f8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " RC1206FR-1320KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fba01c3-745f-42ee-a37f-a6dcdf500fed")
 			(effects
 				(font
 					(size 1 1)
@@ -15627,7 +15867,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "820"
 			(at 0 1.83 0)
 			(layer "F.Fab")
 			(uuid "ef3cc23c-8800-44b2-90a9-8f7cc540f688")
@@ -15831,12 +16071,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J332V "
+		(property "Mouser Part Number" "603-RC1206FR-13820R"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f14e01fd-2058-47ac-a756-8e13ef8bdbbe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-13820RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e35b3ea8-df3e-43fb-a145-d18ed32d027a")
 			(effects
 				(font
 					(size 1 1)
@@ -16161,12 +16414,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8fb5b142-f52f-4a58-aa60-208f24d7d057")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29ebf6a6-d701-4107-b94b-85c010afd5f8")
 			(effects
 				(font
 					(size 1 1)
@@ -16491,12 +16757,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ea505519-2031-4206-9309-857bb2011180")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc645c35-0bb2-4b70-94ad-6f4c3e2ab0ac")
 			(effects
 				(font
 					(size 1 1)
@@ -19077,12 +19356,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d8131791-8a1a-4fdb-9054-8f7b27fdcbac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b84ad80d-7791-41b7-9578-3910cddf5e08")
 			(effects
 				(font
 					(size 1 1)
@@ -19407,12 +19699,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2a035f93-b5e7-4033-8879-d8f7dde93a66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02519fa4-f04a-4ae3-9d58-9b2ece47b379")
 			(effects
 				(font
 					(size 1 1)
@@ -24221,12 +24526,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 667-ERJ-P08J103V "
+		(property "Mouser Part Number" " 603-RC1206FR-1310KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2607ffdc-c3e8-4c9f-b220-5ca40adc2b5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC1206FR-1310KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cce7b0b2-9f32-409a-8d9a-df3876039900")
 			(effects
 				(font
 					(size 1 1)
@@ -24603,12 +24921,25 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 637-1N4007 "
+		(property "Mouser Part Number" " 637-1N4007"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c3993c26-6f09-4198-8d2e-cecd9276dc49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1N4007"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ebb6e2d-cd11-4d88-98dc-0ef32233ffc4")
 			(effects
 				(font
 					(size 1 1)
@@ -25064,7 +25395,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 78-1N4759A-TAP "
+		(property "Mouser Part Number" " 78-1N4759A-TAP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30916,27 +31247,7 @@
 	)
 	(group ""
 		(uuid "8e21d062-79bb-4b64-ba57-588f2b3b08c9")
-		(members "10685ae1-2e0c-4792-9a26-0c7f8b9ddf63" "45c87dd1-540b-4967-85c0-3da6ab30eed8"
-			"72245dc3-c224-4ff6-9e55-b89ad5323ce0" "ff3fcc9f-8762-42ec-b2a7-c9a87314bec8"
-		)
-	)
-	(group ""
-		(uuid "1077da3f-7309-47c3-8035-2bd145d38a6e")
-		(members "4bdf9267-5f34-4bac-9555-42bfe6787d6b" "7d8ce1d3-7cc5-416f-9ea6-0ee15c9504f0"
-			"acc1acff-ab9c-4f18-8e9f-39effdd3adb0"
-		)
-	)
-	(group ""
-		(uuid "4c6f6844-6d4d-4009-a0e6-b22ac217c132")
-		(members "002e9a75-761e-4bb9-99ce-bdd87d9220e4" "03d3a4e1-2367-4eed-92aa-0861874903bf"
-			"66663634-a85e-4bf9-88c7-e207368dd739" "941b5420-e355-46ef-8f59-09a0a404c0ff"
-		)
-	)
-	(group ""
-		(uuid "5c0a1b31-af04-4341-accf-e2ebecbd3e17")
-		(members "5a743502-b0a9-463c-b948-a908c6cc8202" "7ba6b0d7-b528-4694-9872-9295688eb9c9"
-			"e7db945e-7458-409f-bb7c-31d5c20482f3"
-		)
+		(members "10685ae1-2e0c-4792-9a26-0c7f8b9ddf63" "ff3fcc9f-8762-42ec-b2a7-c9a87314bec8")
 	)
 	(group ""
 		(uuid "8141b36f-8e99-4e71-a904-a017a8245a3d")
@@ -30946,42 +31257,51 @@
 		)
 	)
 	(group ""
-		(uuid "a5675f0b-8259-4019-b185-9bf0aebf58a6")
-		(members "16dad279-c2ab-478b-b459-32dc59afdf41" "4c83fd86-18c4-4e2d-a0d9-4ab689ae424b"
-			"5e8e48a6-0f61-48c9-a470-bd7db7395e3b" "7c0c1288-b90a-408c-a234-56a40ac62575"
-			"e069b906-15db-480a-8ad1-03e200792fa0"
-		)
-	)
-	(group ""
-		(uuid "d10f9637-f47e-4f9f-b3e7-3883b97760d2")
-		(members "11bea62b-a9e1-4f96-b777-7ef3a4eccbfc" "2caff188-5199-49ff-a5b8-625a48fd3d89"
-			"30446405-98fe-416f-a7ad-7322400a8285" "410e6b7a-c24d-4d09-b3d0-f445fbe93778"
-			"4eb75708-0525-4b8d-91bd-e7b3ded1de6b" "681abec6-83b2-4d88-a9fd-a0db27a8349c"
-			"82bcf0b7-47ae-4fbe-b789-be82f84c6849" "b4e57e32-3770-46f4-9ff9-d3833d4c8158"
-			"c2d129c5-13f5-425d-ba0f-a03d93f0fa0e" "cae9b8b8-a40f-40fb-82ef-4ef82a1ec251"
-			"e6b18144-81b3-4ce3-80ec-37fc6abd3eb0"
-		)
-	)
-	(group ""
-		(uuid "df98aefb-d58c-4724-a052-3106466170a0")
-		(members "2378d27e-571f-419b-88bf-ca9d30848b04" "264de18c-32d5-4d50-a5c5-2602ea6f4976"
-			"4215eaea-2f64-4da1-93be-818209801c65" "54d503dd-0034-46ab-a9aa-1949c84deac6"
-			"652a3d40-ece5-4c2c-9961-847b6e45faeb" "d45e7ffb-340b-4a22-81b8-7a5de044fa97"
-			"d8e13b49-6b5d-4baa-bcc1-4af16132799b"
-		)
-	)
-	(group ""
-		(uuid "f7605a35-a37c-4a4c-a23e-3035dc1d2cc1")
-		(members "7e7c85b5-124b-4d05-b482-a7364c2294f4" "ad6b8b27-82b6-4977-ac9b-e8dff6d594b2"
-			"e641ee0a-e3f3-480f-871a-5c9493d829df"
-		)
-	)
-	(group ""
 		(uuid "fa8d4dee-bf60-49b1-b835-02de053a75e8")
 		(members "41c82c9c-fc7b-4b6c-88ed-03c33d755b5b" "7546cdbe-96ec-44dc-8b48-8bc1f1121a5a"
 			"88d97f29-076e-4468-87dd-f84eb707cbe4" "a31d475d-f9d6-412b-b406-97e8c42969b4"
 			"f28cc185-f276-45ce-abb4-6f102c75ea90" "f847b7c1-e6c8-4331-a4ee-e6f225dba778"
 		)
+	)
+	(group ""
+		(uuid "1077da3f-7309-47c3-8035-2bd145d38a6e")
+		(members "4bdf9267-5f34-4bac-9555-42bfe6787d6b" "7d8ce1d3-7cc5-416f-9ea6-0ee15c9504f0")
+	)
+	(group ""
+		(uuid "4c6f6844-6d4d-4009-a0e6-b22ac217c132")
+		(members "002e9a75-761e-4bb9-99ce-bdd87d9220e4" "03d3a4e1-2367-4eed-92aa-0861874903bf"
+			"941b5420-e355-46ef-8f59-09a0a404c0ff"
+		)
+	)
+	(group ""
+		(uuid "5c0a1b31-af04-4341-accf-e2ebecbd3e17")
+		(members "5a743502-b0a9-463c-b948-a908c6cc8202" "7ba6b0d7-b528-4694-9872-9295688eb9c9")
+	)
+	(group ""
+		(uuid "a5675f0b-8259-4019-b185-9bf0aebf58a6")
+		(members "4c83fd86-18c4-4e2d-a0d9-4ab689ae424b" "5e8e48a6-0f61-48c9-a470-bd7db7395e3b"
+			"7c0c1288-b90a-408c-a234-56a40ac62575" "e069b906-15db-480a-8ad1-03e200792fa0"
+		)
+	)
+	(group ""
+		(uuid "d10f9637-f47e-4f9f-b3e7-3883b97760d2")
+		(members "11bea62b-a9e1-4f96-b777-7ef3a4eccbfc" "30446405-98fe-416f-a7ad-7322400a8285"
+			"410e6b7a-c24d-4d09-b3d0-f445fbe93778" "4eb75708-0525-4b8d-91bd-e7b3ded1de6b"
+			"681abec6-83b2-4d88-a9fd-a0db27a8349c" "82bcf0b7-47ae-4fbe-b789-be82f84c6849"
+			"b4e57e32-3770-46f4-9ff9-d3833d4c8158" "c2d129c5-13f5-425d-ba0f-a03d93f0fa0e"
+			"cae9b8b8-a40f-40fb-82ef-4ef82a1ec251" "e6b18144-81b3-4ce3-80ec-37fc6abd3eb0"
+		)
+	)
+	(group ""
+		(uuid "df98aefb-d58c-4724-a052-3106466170a0")
+		(members "2378d27e-571f-419b-88bf-ca9d30848b04" "264de18c-32d5-4d50-a5c5-2602ea6f4976"
+			"54d503dd-0034-46ab-a9aa-1949c84deac6" "652a3d40-ece5-4c2c-9961-847b6e45faeb"
+			"d45e7ffb-340b-4a22-81b8-7a5de044fa97" "d8e13b49-6b5d-4baa-bcc1-4af16132799b"
+		)
+	)
+	(group ""
+		(uuid "f7605a35-a37c-4a4c-a23e-3035dc1d2cc1")
+		(members "7e7c85b5-124b-4d05-b482-a7364c2294f4" "ad6b8b27-82b6-4977-ac9b-e8dff6d594b2")
 	)
 	(embedded_fonts no)
 )
